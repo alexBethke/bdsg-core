@@ -1,1 +1,1 @@
-# bdsg-core
+# sg-core
